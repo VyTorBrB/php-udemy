@@ -1,8 +1,3 @@
 <?php
-class label {
-    function getLabel(){
-        
-        return "<span></span>"
-    }
-}
+echo '<strong>label</strong>';
 ?>
